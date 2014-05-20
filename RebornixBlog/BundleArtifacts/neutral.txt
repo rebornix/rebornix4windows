@@ -1,0 +1,3 @@
+MainPackage=C:\Users\penlv\documents\visual studio 2013\Projects\RebornixBlog\RebornixBlog\bin\Release\RebornixBlog_1.1.0.1_Bundle\RebornixBlog_1.1.0.1_AnyCPU.appx
+SymbolPackage=C:\Users\penlv\documents\visual studio 2013\Projects\RebornixBlog\RebornixBlog\AppPackages\RebornixBlog_1.1.0.1_Test\RebornixBlog_1.1.0.1_AnyCPU.appxsym
+ResourcePack=C:\Users\penlv\documents\visual studio 2013\Projects\RebornixBlog\RebornixBlog\bin\Release\RebornixBlog_1.1.0.1_Bundle\RebornixBlog_1.1.0.1_scale-180.appx

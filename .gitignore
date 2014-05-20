@@ -1,0 +1,48 @@
+# Visual Studio
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+[Oo]bj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+# Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+*.sass-cache
+
+# Nuget
+packages/
+*.nupkg
+
+# CAPS
+TEMP/
+TestResults/
+
+#Windows Store
+Screeshot
+AppPackages
+Package.appxmanifest
+Package.StoreAssociation.xml
+*.pfx
